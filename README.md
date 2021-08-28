@@ -3,7 +3,7 @@
 Command line app to download an image from a given URL and print it to the console
 
 ## Example:
-```node fun_image_downloader.js https://avatars.githubusercontent.com/u/14314871?s=96&v=4```
+```node fun_image_downloader.js https://cdn.pixabay.com/photo/2020/07/21/16/24/landscape-5426755_1280.jpg```
 
 ## Screenshot:
 ![screenshot](https://i.imgur.com/hCuYqu8.png)
