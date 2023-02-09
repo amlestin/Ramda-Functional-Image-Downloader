@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/amlestin/Ramda-Functional-Image-Downloader/actions/workflows/node.js.yml/badge.svg)](https://github.com/amlestin/Ramda-Functional-Image-Downloader/actions/workflows/node.js.yml)
+
 # Ramda-Functional-Image-Downloader
 
 Command line app to download an image from a given URL and print it to the console
